@@ -1,0 +1,28 @@
+{
+  "name": "zo-capped-array",
+  "version": "1.0.0",
+  "description": "An efficient fixed-length array implementation",
+  "main": "lib/capped-array.js",
+  "scripts": {
+    "test": "mocha ./test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zero0-1one/capped-array.git"
+  },
+  "keywords": [
+    "capped",
+    "array",
+    "fixed-length"
+  ],
+  "author": "zero0-1one",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zero0-1one/capped-array/issues"
+  },
+  "homepage": "https://github.com/zero0-1one/capped-array#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
